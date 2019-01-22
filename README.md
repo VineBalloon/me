@@ -4,4 +4,4 @@ Fun little personal site for my own learning.
 
 # ...but why?
 
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
